@@ -1,8 +1,4 @@
 # 忽略 Python 缓存文件
-*.pyc
-*.pyo
-*.pyd
+
 __pycache__/
-*.egg-info/
-dist/
-build/
+
